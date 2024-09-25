@@ -1,4 +1,4 @@
-# 04 - UML <!-- omit from toc -->
+# L.01 - UML <!-- omit from toc -->
 
 - [Introduzione](#introduzione)
 - [Abstractions](#abstractions)
@@ -6,7 +6,6 @@
   - [Qualità dei modelli](#qualità-dei-modelli)
 - [UML](#uml)
   - [Utilizzi dell'UML](#utilizzi-delluml)
-    - [Esempio di diagramma UML](#esempio-di-diagramma-uml)
   - [Legal UML](#legal-uml)
   - [Il significato dell'UML](#il-significato-delluml)
 
@@ -34,11 +33,26 @@ Essi hanno tre caratteristiche fondamentali:
 
 ### Qualità dei modelli
 
+Possiamo definire alcune metriche per stabilire la qualità di un modello:
+
+- **Abstraction**: un modello è una rappresentazione ridotta del sistema che raffigura.
+- **Understandability**: è importante presentare elementi il più intuitivamente possibili, per esempio tramite una notazione grafica. L'espressività di un modello è la capacità di esporre contenuti complessi con il minor numero possibile di concetti. Un modello è buono tanto più riduce lo sforzo mentale necessario per comprenderlo.
+- **Accuracy**: un modello deve risaltare le proprietà rilevanti del sistema reale, riflettendo la realtà il più fedelmente possibile.
+- **Predictiveness**: un modello deve predire delle proprietà non ovvie; ciò può essere fatto tramite simulazioni o analisi delle proprietà formali.
+- **Cost-effecctiveness**: nel lungo termine deve essere più economico rispetto alla fase di modellazione del sistema.
+
 ## UML
+
+L'**Unified Modeling Language** (UML) è una raccolta di notazioni grafiche utilizzate come supporto per la descrizione e il design di sistemi software. Questo linguaggio è stato realizzato usando lo stile object-oriented.
+
+L'UML è uno standard relativamente aperto, controllato da Object Management Group (OMG), organizzazione formata per creare gli standard che supportano l'interoperabilità.
 
 ### Utilizzi dell'UML
 
-#### Esempio di diagramma UML
+Esistono tre modi in cui le persone utilizzano l'UML:
+- Sketch: in questo caso il linguaggio viene impiegato solo come supporto per la comunicazione di alcuni aspetti del sistema, perciò il modello non cosistutisce una specifica completa. Può essere utilizzato sia per il forward che per il reverse engineering.
+
+#### Esempio di diagramma UML <!-- omit from toc -->
 
 ![uml_sample](resources\uml_sample.png)
 

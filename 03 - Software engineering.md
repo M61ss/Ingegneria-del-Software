@@ -115,6 +115,8 @@ Gli ingegneri del software devono:
 
 ![wasserman](resources\wasserman.png)
 
+Il **debito tecnico** è un effetto collaterale della necessità di rilasciare troppo rapidamente: i programmatori si trovano a comporre il sistema in modo rapido, quindi nella pratica potremmo visualizzare questi problemi in documentazione carente, eccessiva complessità dell'implementazione, ecc.. Questo effetto collaterale viene detto "debito" perché in futuro costerà caro a chi dovrà modificare il software.
+
 ## Software process
 
 I **software process models** sono utili per evitare i gli ingegneri del software basino le loro scelte solo sulla loro esperienza passata. Questi modelli sono utili per fornire una guida nel coordinare e controllare i compiti da svolgere per raggiungere il prodotto finale e gli obiettivi del progetto.
