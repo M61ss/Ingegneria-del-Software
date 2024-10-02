@@ -119,7 +119,7 @@ Il **debito tecnico** è un effetto collaterale della necessità di rilasciare t
 
 ## Software process
 
-I **software process models** sono utili per evitare i gli ingegneri del software basino le loro scelte solo sulla loro esperienza passata. Questi modelli sono utili per fornire una guida nel coordinare e controllare i compiti da svolgere per raggiungere il prodotto finale e gli obiettivi del progetto.
+I **software process models** sono utili per evitare che gli ingegneri del software basino le loro scelte solo sulla loro esperienza passata. Questi modelli sono utili per fornire una guida nel coordinare e controllare i compiti da svolgere per raggiungere il prodotto finale e gli obiettivi del progetto.
 \
 Con questo scopo si definiscono:
 
@@ -158,7 +158,7 @@ Le task si susseguono l'una dopo l'altra: l'output dell'una sarà l'input della 
 
 Aspetti positivi:
 - I requisiti devono essere definiti per primi.
-- Devono essere completate quattro tasks priima che il sistema possa essere rilasciato.
+- Devono essere completate quattro tasks prima che il sistema possa essere rilasciato.
 - L'output di ogni stadio viene assegnato come input per quello successivo.
 - Il progetto può essere tracciato e si muove sequenzialmente attraverso tasks identificabili.
 
